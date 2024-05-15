@@ -1,0 +1,8 @@
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.AssemblyInfoInputs.cache
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.AssemblyInfo.cs
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.csproj.CoreCompileInputs.cache
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.RazorAssemblyInfo.cache
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.RazorAssemblyInfo.cs
+C:\Users\Rommel Hortel\Desktop\ELNET\ELNEEET3\ELNEEET3\obj\Debug\net8.0\ELNEEET3.csproj.AssemblyReference.cache
